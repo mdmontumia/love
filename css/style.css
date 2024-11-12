@@ -114,3 +114,25 @@ body{
     transition: .7s;
 }
 /* =======banner css============ */
+.input{
+    width: 100%;
+    margin-bottom: 5px;
+
+}
+.from{
+    background: red;
+    margin-left: 60px;
+    margin-right: 60px;
+   
+   
+}
+.sms{
+    margin-top: 20px;
+    width: 100%;
+   
+}
+.btn{
+    padding:5px 40px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
